@@ -39,7 +39,7 @@ HTML = """
 <body>
   <div class="box">
     <h1>Your Key</h1>
-    <div class="key" id="key">H4X854</div>
+    <div class="key" id="key">Comeback</div>
     <button onclick="copyKey()">Copy Key</button>
     <div id="msg"></div>
   </div>
